@@ -1,0 +1,20 @@
+Línea 1: 154 es un número válido
+Número : 154
+Línea 2: bjhf no es un número válido
+Línea 3: 2 es un número válido
+Número : 2
+Línea 4: -46 es un número válido
+Número : -46
+Línea 5: 4 es un número válido
+Número : 4
+Línea 6: +89 es un número válido
+Número : +89
+Línea 7: 6 es un número válido
+Número : 6
+Línea 8: ?=(/&% no es un número válido
+Línea 9: 8 es un número válido
+Número : 8
+Línea 10: 789 es un número válido
+Número : 789
+Línea 11: 10 es un número válido
+Número : 10

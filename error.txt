@@ -1,0 +1,2 @@
+Error en la línea 2: bjhf no es un número válido
+Error en la línea 8: ?=(/&% no es un número válido
